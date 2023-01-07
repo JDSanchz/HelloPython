@@ -6,9 +6,7 @@ This is a basic program written in Python that says hello to you after you tell 
 
 I just wanted to demonstrate how to use a GitHub repository.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/bb0tQ7NR_qs)
 
 # Development Environment
 
